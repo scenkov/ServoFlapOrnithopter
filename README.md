@@ -9,7 +9,7 @@ This library can control a many types of servos. It makes use of the ESP32 PWM t
 ## Usage
 
 New Servo Flap System by K.Kakuta
-![New Servo Flap System by K.Kakuta](./Image/clip_image002.jpg)
+![New Servo Flap System by K.Kakuta](./media/servo_system.jpg)
 
 ### Installation
 Download the contents of this repository on your computer. Open qith PlatformIO
