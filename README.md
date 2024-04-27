@@ -11,6 +11,12 @@ Download the contents of this repository on your computer. Open with PlatformIO
 
 ## Usage
 
+Schematic 
+![Schematic](./media/schematic1.jpg)
+
+Board 
+![board](./media/brd.jpg)
+
 New Servo Flap System by K.Kakuta
 ![New Servo Flap System by K.Kakuta](./media/servo_system.jpg)
 

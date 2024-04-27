@@ -37,8 +37,8 @@ Servo servo_right;
 int minUs = 1000;
 int maxUs = 2000;
 
-int servo_left_pin = 12;
-int servo_right_pin = 13;
+int servo_left_pin = 13;
+int servo_right_pin = 14;
 volatile int elevator = 0;
 volatile int flapamp = 0;
 //volatile int delaytime = 100;// Servo speed low-increase Servo speed high-decrease this.
